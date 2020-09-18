@@ -1,2 +1,2 @@
-PIL==7.1.0
+Image
 streamlit
