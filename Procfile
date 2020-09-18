@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run hr_streamlitapp.py
+web: sh setup.sh && streamlit run arvind.py
