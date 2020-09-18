@@ -1,2 +1,2 @@
-PIL
+PIL==7.1.0
 streamlit
